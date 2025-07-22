@@ -20,3 +20,7 @@ Users can add and delete notes, and all notes are saved using the browser's **lo
 - **HTML5** – Structure of the app  
 - **CSS3** – Styling and layout  
 - **JavaScript** – Functionality and localStorage
+
+## 📸 App Screenshot
+
+![App Screenshot](./screenshot.png)
